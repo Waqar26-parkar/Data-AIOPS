@@ -1,0 +1,34 @@
+Server Events Mapping:
+nan: 0
+Number of installed packages has been changed: 1
+High CPU utilization (over 90% for 5m): 2
+Load average is too high (per CPU load over 1.5 for 5m): 3
+Zabbix agent is not available (for 3m): 4
+application-server has been restarted (uptime < 10m): 5
+/etc/passwd has been changed: 6
+
+Website Events Mapping:
+nan: 0
+65.2.33.65 is not available: 1
+3.110.32.172 is not available: 2
+52.66.107.192 is not available: 3
+13.126.209.90 is not available: 4
+65.2.168.33 is not available: 5
+13.127.178.245 is not available: 6
+13.126.11.21 is not available: 7
+Reach Time is High for 13.126.11.21 (More than 0.5 Seconds): 8
+Download Speed is Low for 13.126.11.215 
+Download Speed is Low for 13.126.11.21 (Less than 1000 Kbps): 10
+Page Load Time is High for 13.126.11.21 (More than 0.1 Seconds): 11
+HTTP Probe Duration is High for 13.126.11.21 (More than 10 milliseconds): 12
+DNS Query Time is High for 13.126.11.21 (More than 40 milliseconds): 13
+13.233.233.130 is not available: 14
+DNS Query Time is High for 13.233.233.130 (More than 40 milliseconds): 15
+Reach Time is High for 13.233.233.130 (More than 0.5 Seconds): 16
+Download Speed is Low for 13.233.233.130 (Less than 1000 Kbps): 17
+Page Load Time is High for 13.233.233.130 (More than 0.1 Seconds): 18
+HTTP Probe Duration is High for 13.233.233.130 (More than 10 milliseconds): 19
+DNS Query Time is High for 13.233.233.130 (More than 100 milliseconds): 20
+Download Speed is Low for 13.233.233.130 (Less than 500 Kbps): 21
+HTTP Probe Duration is High for 13.233.233.130 (More than 100 milliseconds): 22
+Page Load Time is High for 13.233.233.130 (More than 0.5 Seconds): 23

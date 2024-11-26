@@ -1,0 +1,25 @@
+event_id,event_name
+0,13.126.11.21 is not available
+1,13.126.209.90 is not available
+2,13.127.178.245 is not available
+3,13.233.233.130 is not available
+4,3.110.32.172 is not available
+5,52.66.107.192 is not available
+6,65.2.168.33 is not available
+7,65.2.33.65 is not available
+8,DNS Query Time is High for 13.126.11.21 (More than 40 milliseconds)
+9,DNS Query Time is High for 13.233.233.130 (More than 100 milliseconds)
+10,DNS Query Time is High for 13.233.233.130 (More than 40 milliseconds)
+11,Download Speed is Low for 13.126.11.21
+12,Download Speed is Low for 13.126.11.21 (Less than 1000 Kbps)
+13,Download Speed is Low for 13.233.233.130 (Less than 1000 Kbps)
+14,Download Speed is Low for 13.233.233.130 (Less than 500 Kbps)
+15,HTTP Probe Duration is High for 13.126.11.21 (More than 10 milliseconds)
+16,HTTP Probe Duration is High for 13.233.233.130 (More than 10 milliseconds)
+17,HTTP Probe Duration is High for 13.233.233.130 (More than 100 milliseconds)
+18,Page Load Time is High for 13.126.11.21 (More than 0.1 Seconds)
+19,Page Load Time is High for 13.233.233.130 (More than 0.1 Seconds)
+20,Page Load Time is High for 13.233.233.130 (More than 0.5 Seconds)
+21,Reach Time is High for 13.126.11.21 (More than 0.5 Seconds)
+22,Reach Time is High for 13.233.233.130 (More than 0.5 Seconds)
+23,nan
